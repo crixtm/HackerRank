@@ -1,4 +1,4 @@
-package helloworld;
+package helloworld_00;
 
 import org.junit.Before;
 import org.junit.Test;

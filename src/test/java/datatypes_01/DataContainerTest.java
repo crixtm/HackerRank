@@ -1,4 +1,4 @@
-package datatypes;
+package datatypes_01;
 
 import org.junit.Test;
 
